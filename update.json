@@ -1,14 +1,16 @@
 { 
   "version": "1.0.0", 
-  "updateStatus": "critical", 
+  "updateStatus": "Critical", 
   "updateUrl": "https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=ru",
   "description": { 
-  "ru": [ "Добавлены новые позы", 
+  "ru": [ 
+  "Добавлены новые позы", 
   "Улучшена работа камеры", 
   "Исправлены ошибки и повышена стабильность" 
   ]
   , 
-  "en": [ "Added new poses", 
+  "en": [ 
+  "Added new poses", 
   "Improved camera performance", 
   "Fixed bugs and improved stability" 
   ] 
