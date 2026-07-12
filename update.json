@@ -1,6 +1,6 @@
 { 
   "version": "1.2.0", 
-  "updateStatus": "Critical", 
+  "updateStatus": "critical", 
   "updateUrl": "https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=ru",
   "description": { 
   "ru": [ "Добавлены новые позы", 
